@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi there 👋 I'm Sanjana Vichare<br><br>💻 Developer | 🎮 Game Builder | 🤖 AI Explorer<br><br>I’m a passionate developer who enjoys building apps, games, and AI-powered solutions.<br>My focus is on creating practical software that solves real-world problems while also experimenting with creative tech projects.<br><br>Currently I work with mobile apps, backend APIs, databases, and machine learning.<br><br>---<br><br>🚀 About Me<br><br>🔭 I’m currently working on<br><br>* Flutter applications with Flask backend<br>* AI-powered projects like Sign Language Translation System<br>* Game development experiments<br><br>👯 I’m looking to collaborate on<br><br>* AI / Machine Learning projects<br>* Flutter apps<br>* Open source tools<br><br>🤝 I’m looking for help with<br><br>* Advanced Machine Learning models<br>* Optimizing large datasets and APIs<br>* AI model deployment<br><br> 📫 Connect With Me<br><br>📧 Email: sanjanastudys@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/sanjana-vichare/<br><br>---<br><br>⭐ *Always curious. Always building.*<br>
+Hi there 👋 I'm Sanjana Vichare<br><br>💻 Developer | 🎮 Game Builder | 🤖 AI Explorer<br><br>I’m a passionate developer who enjoys building apps, games, and AI-powered solutions.<br>My focus is on creating practical software that solves real-world problems while also experimenting with creative tech projects.<br><br>Currently I work with mobile apps, backend APIs, databases, and machine learning.<br><br>---<br><br> 📫 Connect With Me<br><br>📧 Email: sanjanastudys@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/sanjana-vichare/<br><br>---<br><br>⭐ *Always curious. Always building.*<br>
 
 
 ## 🌐 Socials:
