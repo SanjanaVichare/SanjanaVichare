@@ -14,8 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-Hi there 👋 I'm Sanjana Vichare<br><br>💻 Developer | 🎮 Game Builder | 🤖 AI Explorer<br><br>I’m a passionate developer who enjoys building apps, games, and AI-powered solutions.<br>My focus is on creating practical software that solves real-world problems while also experimenting with creative tech projects.<br><br>Currently I work with mobile apps, backend APIs, databases, and machine learning.<br><br> 📫 Connect With Me<br><br>📧 Email: sanjanastudys@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/sanjana-vichare/<br><br>⭐ *Always curious. Always building.*<br>
+# 💫 About Me
+
+Hi there 👋 I'm **Sanjana Vichare**
+
+💻 **Computer Engineering Student | Developer | Game Builder | AI Explorer**
+
+I'm a Computer Engineering student who enjoys building things — from mobile apps and backend systems to games and small AI experiments. Most of my time goes into learning new technologies, experimenting with ideas, and turning them into working projects.
+
+Alongside college, I also **freelance for companies**, helping build applications and solving real-world problems through code.
+
+Currently I work with **mobile apps, backend APIs, databases, and machine learning**, and I'm always curious about exploring new tools and technologies.
+
+<br>📫 Connect With Me<br><br>📧 Email: sanjanastudys@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/sanjana-vichare/<br><br>⭐ *Always curious. Always building.*<br>
 
 
 ## 🌐 Socials:
