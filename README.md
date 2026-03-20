@@ -26,7 +26,7 @@ Alongside college, I also **freelance for companies**, helping build application
 
 Currently I work with **mobile apps, backend APIs, databases, and machine learning**, and I'm always curious about exploring new tools and technologies.
 
-<br>📫 Connect With Me<br><br>📧 Email: sanjanastudys@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/sanjana-vichare/<br><br>👽[(My Portfolio <3](https://sanjana-interactive-portfolio.vercel.app/)  <br><br>⭐ *Always curious. Always building.*<br>
+<br>📫 Connect With Me<br><br>📧 Email: sanjanastudys@gmail.com<br>💼 LinkedIn: https://www.linkedin.com/in/sanjana-vichare/<br><br>👽[My Portfolio <3](https://sanjana-interactive-portfolio.vercel.app/)  <br><br>⭐ *Always curious. Always building.*<br>
 
 
 ## 🌐 Socials:
